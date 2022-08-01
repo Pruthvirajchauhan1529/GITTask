@@ -12,4 +12,7 @@ public class Test {
         System.out.println("Hello Akshaybhai...");
         m2();
     }
+    public void m3(){
+        System.out.println("Hello world....");
+    }
 }
